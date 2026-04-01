@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|c:\\users\\minh tho\\downloads\\quanlylich_hqtcsdl\\quanlylich_hqtcsdl\\views\\scheduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\views\\scheduleview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\views\\loginview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\viewmodels\\scheduleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\viewmodels\\baseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\models\\schedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\models\\schedulemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\database\\databasehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\quanlylich_hqtcsdl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D9CF897-AD79-4BDE-9F4F-A82632EFD5CF}|QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL.csproj|solutionrelative:quanlylich_hqtcsdl\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScheduleView.xaml",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Views\\ScheduleView.xaml",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\Views\\ScheduleView.xaml",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Views\\ScheduleView.xaml",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\Views\\ScheduleView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T03:17:20.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DashboardView.xaml",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Views\\DashboardView.xaml",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\Views\\DashboardView.xaml",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Views\\DashboardView.xaml",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\Views\\DashboardView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T03:17:01.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginView.xaml",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Views\\LoginView.xaml",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\Views\\LoginView.xaml",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Views\\LoginView.xaml",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\Views\\LoginView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T03:16:35.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScheduleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\ViewModels\\ScheduleViewModel.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\ScheduleViewModel.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\ViewModels\\ScheduleViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:16:08.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:15:42.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:14:13.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:13:51.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\BaseViewModel.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\ViewModels\\BaseViewModel.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\ViewModels\\BaseViewModel.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\ViewModels\\BaseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:13:33.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TaskModel.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Models\\TaskModel.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\Models\\TaskModel.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Models\\TaskModel.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\Models\\TaskModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:09:37.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ScheduleModel.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Models\\ScheduleModel.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\Models\\ScheduleModel.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Models\\ScheduleModel.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\Models\\ScheduleModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:09:22.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Models\\UserModel.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\Models\\UserModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:08:50.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DatabaseHelper.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Database\\DatabaseHelper.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\Database\\DatabaseHelper.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\Database\\DatabaseHelper.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\Database\\DatabaseHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:06:34.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\MainWindow.xaml",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-01T03:04:32.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "QuanLyLich_HQTCSDL\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MINH THO\\Downloads\\QuanLyLich_HQTCSDL\\QuanLyLich_HQTCSDL\\MainWindow.xaml.cs",
+              "RelativeToolTip": "QuanLyLich_HQTCSDL\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T03:04:30.603Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
